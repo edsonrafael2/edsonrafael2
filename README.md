@@ -1,12 +1,8 @@
 ### Hi I'm Edson Rafael 👋
 <div>
   <a href="https://github.com/edsonrafael2">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=tokyonight">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=transparent" >
-</div>
-<div>
-  <a href="https://github.com/edsonrafael2">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrafael2&hide_progress=false"
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrafael2&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <!--
