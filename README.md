@@ -4,6 +4,10 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=tokyonight">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=transparent" >
 </div>
+<div>
+  <a href="https://github.com/edsonrafael2">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrafael2&hide_progress=false"
+</div>
 
 <!--
 **edsonrafael2/edsonrafael2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
