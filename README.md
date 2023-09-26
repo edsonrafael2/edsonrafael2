@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-<a href="https://github.com/edsonrafael2">
-  
+  <a href="https://github.com/edsonrafael2">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?edsonrafael2=anuraghazra&show_icons=true&theme=radical">
 </div>
 
 <!--
