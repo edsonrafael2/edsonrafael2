@@ -1,7 +1,7 @@
 ### Hi I'm Edson Rafael 👋
 <div>
   <a href="https://github.com/edsonrafael2">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=gruvbox">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=tokyonight">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=transparent" >
 </div>
 
