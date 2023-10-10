@@ -1,4 +1,4 @@
-### Hi I'm Edson Rafael 👋
+### Hi I am Edson Rafael 👋
 <div>
   <a href="https://github.com/edsonrafael2">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=edsonrafael2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
